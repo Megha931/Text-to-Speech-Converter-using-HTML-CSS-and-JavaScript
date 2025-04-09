@@ -27,18 +27,16 @@ Google Fonts
 ## 🚀 Setup Instructions
 To run this project locally:
 
-1. Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/Megha931/Text-to-Speech-Converter-using-HTML-CSS-and-JavaScript.git
+Clone the Repository
+   
+git clone repository_link
+
 cd Text-to-Speech-Converter-using-HTML-CSS-and-JavaScript
-2. Open the App
+
+Open the App
+
 Simply open the index.html file in your preferred browser:
 
-bash
-Copy
-Edit
 open index.html
 Or manually double-click the file.
 
